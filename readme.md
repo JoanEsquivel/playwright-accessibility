@@ -19,8 +19,8 @@ To set up the project, you need to have Node.js installed. Then, follow these st
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/JoanEsquivel/playwright-accessibility.git
+    cd playwright-accessibility
     ```
 
 2. Install the dependencies:
@@ -39,7 +39,3 @@ After installation, you can run the tests using the following commands:
     npx playwright test
     ```
 
-2. **Run a Specific Test:**
-
-    ```bash
-    npx plas
